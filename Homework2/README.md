@@ -1,4 +1,4 @@
-# COP3330 - Object Oriented Programming in C++
+# COP3363 - Intro to Programming in C++
 
 ## Jamel Douglas
 

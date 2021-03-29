@@ -5,8 +5,8 @@
 ### Assignment 2: COP3363 Grade Calculator
 
 #### Objectives
-This assignment will consist of writing a program that gives practice with basic selection statements (if,else,switch), as well as further practice with basic I/O, and output formatting.
-Real world application, this program will help you calculate your overall course grade at the end of the class if done correctly :)
+- This assignment will consist of writing a program that gives practice with basic selection statements (if,else,switch), as well as further practice with basic I/O, and output formatting.
+- Real world application, this program will help you calculate your overall course grade at the end of the class if done correctly :)
 
 #### Tasks
 Write a program that does the following in order:

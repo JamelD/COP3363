@@ -5,7 +5,7 @@
 ### Assignment 3: Practice with Loops & Functions
 
 #### Objectives
-These assignment consist of writing code that involves practice utilizing loops and writing and calling functions.
+This assignment consists of writing code that involves practice utilizing loops and writing and calling functions.
 
 #### Tasks
 - Write a function called OrderTotal that takes in four integer parameters representing the number of krabby patties, the number of drinks, the number of fries, and the number of pizzas in a customer's order. The function should return the total order cost based on the price of each item presented in the menu. NO user input or output to the screen should occur in this function. The function should simply calculate the order total based on the counts of each item and return this value as a double.

@@ -106,3 +106,6 @@ Invalid option, exiting program.
 - You may only use the iostream and/or iomanip libraries (you do not need any others for these tasks)
 - When you write source code, make sure it is clear, readable, and well-documented (see the style guide).
 - Include the appropriate HEADER at the top of your file
+
+#### Compiling and Running
+Make sure your code compiles with g++ before you submit. You can use any IDE to develop if you choose, but we will be grading using the compiler g++.

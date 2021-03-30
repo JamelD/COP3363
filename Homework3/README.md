@@ -168,3 +168,6 @@ Enjoy the food!
 - Use the appropriate header
 - When you write source code, it should be readable and well-documented. See the style guidelines
 - Your program should only use standard ANSI header files (make sure to follow the directions exactly on the handout for creating Visual C++ projects, so that Windows-specific headers like stdafx.h and conio.h are not placed into your file)
+
+#### Compiling and Running
+Make sure your code compiles with g++ before you submit. You can use any IDE to develop if you choose, but we will be grading using the compiler g++.

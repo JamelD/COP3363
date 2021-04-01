@@ -12,7 +12,7 @@ http://www.cs.fsu.edu/~vastola/hw/hw6stringfun.html
 #### Objectives
 - This assignment will involve practice with either C-style strings or string objects, as well as some of the libraries that involve manipulations on characters (like cctype) and strings (cstring/string).
 
-#### Tasks [NEEDS TO BE MODIFIED]
+#### Tasks
 You may choose to complete this assignment using either string objects or cstrings.
 
 ##### Guidelines:

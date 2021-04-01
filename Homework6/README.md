@@ -1,7 +1,3 @@
-# COP3330_FSU
-My submissions for COP3330 (Zhao) at FSU
-http://www.cs.fsu.edu/~vastola/hw/hw6stringfun.html
-
 # COP3363 - Intro to Programming in C++
 
 ## Jamel Douglas
